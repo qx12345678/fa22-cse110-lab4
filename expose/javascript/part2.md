@@ -29,4 +29,8 @@
     E. false since true is 1 
     F. true since Boolean(2) is true
 15. `==` would check equality with type conversion while `===` would check equality without type conversion.
-17. 
+17. [2,4,6] when called modifyArray([1,2,3], do somthing), create newArr first, inside for loop, in each loop push callback(array[i]), which call doSomthing(array[i]), in to newArr. so 1->2, 2->4, 3->6, so the newArr is [2,4,6] 
+19. 1
+    4
+    3
+    2
