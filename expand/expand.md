@@ -1,0 +1,5 @@
+1. Because JaveScripte has not a strict type style, so all Javascript design is up to the developer.
+2. As I said in Q1, JS do not has a strict type style so it loosely typed, and the reason they added asynchronous features is they face to the user.
+3. compile langugae should be compiled begore it is run, and interpreted langugae is interprested, without compiling into machine insturctions. JavaScripte should be interpreted langugae. An interpreter in the brower could read JS, and run it, so it could be used in a lot of browser and could use it without any other implementation.
+4. JS is easy to use and directly display in a browser which is easy to understand and easy to corperate with teammate. If not learning a framework, it may be missed in the process, then fail.
+5. I would use the diagram to draw my project process, to help to design the project.
